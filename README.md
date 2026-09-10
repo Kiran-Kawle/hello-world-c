@@ -1,10 +1,6 @@
-# Hello World C
+## Collaboration Log
 
-A simple C program that prints "Hello, World!".
-
-## How to Compile and Run
-
-```bash
-gcc "hello world.c" -o hello
-.\hello.exe
-
+- Partner: Manoj Rathod
+- GitHub Username: manojrathod0257-wq
+- What we built: greet() function
+- What I learned: I learned how GitLens and Live Share help in collaborative coding.
